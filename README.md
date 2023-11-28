@@ -7,5 +7,7 @@ If you use this code please cite the following paper
 
 [1]R. Li, B. Pan, X. Xu, T. Li and Z. Shi, "Toward Convergence: A Gradient-Based Multiobjective Method With Greedy Hash for Hyperspectral Unmixing," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-14, 2023, Art no. 5509114, doi: 10.1109/TGRS.2023.3267080.
 
-Urban_F210.mat is provided as an example dataset. 
+Urban_F210.mat is provided as an example dataset, data_example.mat is provided as spectral library, end6_groundTruth.mat is provided as groundtruth of Urban.
+
+You can run run.py to try our method.
 
